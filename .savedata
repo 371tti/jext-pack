@@ -1,10 +1,4 @@
 {
-  "world:24:133:91": {
-    "0": {
-      "type": "minecraft",
-      "value": "MUSIC_DISC_CREATOR"
-    }
-  },
   "world:21:133:93": {
     "0": {
       "type": "jext",
@@ -45,6 +39,18 @@
     "9": {
       "type": "jext",
       "value": "refreqtunknownartistone"
+    },
+    "10": {
+      "type": "jext",
+      "value": "featheatabnormaliyowafeatadachunknownartistone"
+    },
+    "11": {
+      "type": "jext",
+      "value": "remixfeatunknownartistone"
+    },
+    "12": {
+      "type": "jext",
+      "value": "yesterdayunknownartist"
     }
   }
 }
